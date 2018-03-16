@@ -1,0 +1,11 @@
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.AssemblyInfo.cs
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\bin\Debug\netcoreapp2.0\OSSImulator.deps.json
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\bin\Debug\netcoreapp2.0\OSSImulator.runtimeconfig.json
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\bin\Debug\netcoreapp2.0\OSSImulator.runtimeconfig.dev.json
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\bin\Debug\netcoreapp2.0\OSSImulator.dll
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\bin\Debug\netcoreapp2.0\OSSImulator.pdb
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.dll
+C:\Users\HOME\Documents\Visual Studio 2017\Projects\OSSImulator\OS-Simulator\OSSImulator\OSSImulator\obj\Debug\netcoreapp2.0\OSSImulator.pdb
